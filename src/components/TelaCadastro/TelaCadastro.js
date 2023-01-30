@@ -3,7 +3,7 @@ import { Form, FormContainer, Input, StyledLabel, SendButton, BackToLoginButton 
 function TelaCadastro(props) {
   return (
     <FormContainer>
-      <h1>Cadastro </h1>
+      <h1>Cadastro</h1>
       <Form>
         <StyledLabel htmlFor="titulo">
           Nome:

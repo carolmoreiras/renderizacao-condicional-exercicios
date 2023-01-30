@@ -1,4 +1,4 @@
-import { Div, Titulo } from "./styled";
+import { Div, Titulo, } from "./styled";
 
 function TelaUsuarioCadastrado (){
     return (
